@@ -1,0 +1,7 @@
+/authorization
+/files/audio
+/files/video
+/files/images
+/json
+
+**.pyc
